@@ -2,4 +2,4 @@
 
 ## 🎫 Links
 
-- `Ссылка на Vercel`
+- `Ссылка на Vercel` https://newspaper-editor-test.vercel.app/
